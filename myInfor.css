@@ -1,0 +1,43 @@
+img{
+	margin-left: 12%;
+	border-radius: 50%;
+	width : 200px;
+	height : 200px;
+}
+body{
+	margin-top: 35px;
+}
+h1{
+	font-size: 40px;
+}
+h4{
+	margin-left: 50px;
+}
+.test{
+	float: right;
+}
+.div1{
+	background-color: #E6E6FA;
+}
+.div2{
+	background-color: #D8BFD8;
+}
+.div3{
+	padding-top: 100px;
+}
+.item{
+	margin-left: 10%;
+	margin-top: 50px;
+	height: 124px;
+}
+.title{
+	float: right;
+	display:block;
+	width:100%;
+}
+.div1:hover{
+	background-color: green;
+}
+.div2:hover{
+	background-color: green;
+}
